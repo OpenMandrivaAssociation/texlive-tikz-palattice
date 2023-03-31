@@ -1,6 +1,6 @@
 Name:		texlive-tikz-palattice
 Version:	43442
-Release:	1
+Release:	2
 Summary:	Draw particle accelerator lattices with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-palattice
